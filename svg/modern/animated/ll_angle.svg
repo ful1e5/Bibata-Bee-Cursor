@@ -3,9 +3,9 @@
   <g filter="url(#filter0_d)">
     <path d="M34 34.5V166.5H166.5" stroke="#000000" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <path d="M34 34.5V166.5H166.5" stroke-width="10" stroke-linecap="round" stroke="url(#bibata-zebra)"/>
+  <path d="M34 34.5V166.5H166.5" stroke-width="10" stroke-linecap="round" stroke="url(#bibata-bee)"/>
   <defs>
-    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+    <pattern id="bibata-bee" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
       <g>
         <g transform="rotate(20 50 50) scale(2.4)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>

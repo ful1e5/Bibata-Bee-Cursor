@@ -4,9 +4,9 @@
     <path d="M117.469 97.5976H145L99.1848 34L54 97.6438L82.1617 97.5976V167H117.469V97.5976Z" fill="#000000"/>
     <path d="M54.0062 101.394L78.4117 101.354V167V170.75H82.1617H117.469H121.219V167V101.348H145H152.323L148.043 95.4056L102.227 31.8081L99.1625 27.5535L96.127 31.8291L50.9423 95.4729L46.7302 101.406L54.0062 101.394Z" stroke="#000000" stroke-width="7.5"/>
   </g>
-  <path d="M117.469 97.5976H145L99.1848 34L54 97.6438L82.1617 97.5976V167H117.469V97.5976Z" fill="url(#bibata-zebra)" stroke="#000000"/>
+  <path d="M117.469 97.5976H145L99.1848 34L54 97.6438L82.1617 97.5976V167H117.469V97.5976Z" fill="url(#bibata-bee)" stroke="#000000"/>
   <defs>
-    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+    <pattern id="bibata-bee" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
       <g>
         <g transform="rotate(20 50 50) scale(2.4)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>

@@ -5,10 +5,10 @@
     <path fill-rule="evenodd" clip-rule="evenodd" d="M32 89H168V111H32V89Z" fill="#000000"/>
     <path d="M111 174H117V168V117H168H174V111V89V83H168H117V32V26H111H89H83V32V83H32H26V89V111V117H32H83V168V174H89H111Z" stroke="#000000" stroke-width="12"/>
   </g>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M111 168H89V32H111V168Z" fill="url(#bibata-zebra)" stroke="#000000"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M32 89H168V111H32V89Z" fill="url(#bibata-zebra)" stroke="#000000"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M111 168H89V32H111V168Z" fill="url(#bibata-bee)" stroke="#000000"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M32 89H168V111H32V89Z" fill="url(#bibata-bee)" stroke="#000000"/>
   <defs>
-    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+    <pattern id="bibata-bee" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
       <g>
         <g transform="rotate(20 50 50) scale(2.4)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>

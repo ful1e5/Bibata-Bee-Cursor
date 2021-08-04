@@ -4,10 +4,10 @@
     <g filter="url(#filter0_d)">
       <path fill-rule="evenodd" clip-rule="evenodd" d="M160.78 4L28 135.337L104.733 137.1L160.78 191.195V4Z" fill="#000000"/>
     </g>
-    <path d="M150.053 29.6987V165.933L109.168 126.472L53.5093 125.193L150.053 29.6987Z" fill="url(#bibata-zebra)" stroke="#000000"/>
+    <path d="M150.053 29.6987V165.933L109.168 126.472L53.5093 125.193L150.053 29.6987Z" fill="url(#bibata-bee)" stroke="#000000"/>
   </g>
   <defs>
-    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+    <pattern id="bibata-bee" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
       <g>
         <g transform="rotate(20 50 50) scale(2.4)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>

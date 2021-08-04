@@ -4,10 +4,10 @@
     <g filter="url(#filter0_d)">
       <path d="M116.167 79.9808V120.024L139.633 120.001L99.503 193.677L59.3778 120.062L82.834 120.038L82.834 79.9648L59.3777 79.9413L99.5031 6.32611L139.633 80.0043L116.167 79.9808Z" fill="#000000"/>
     </g>
-    <path d="M90.3334 72.4707L72.0001 72.4523L99.5001 22L127 72.49L108.667 72.4717L108.667 127.53L127 127.512L99.5001 178L72.0001 127.548L90.3334 127.529V72.4707Z" fill="url(#bibata-zebra)" stroke="#000000"/>
+    <path d="M90.3334 72.4707L72.0001 72.4523L99.5001 22L127 72.49L108.667 72.4717L108.667 127.53L127 127.512L99.5001 178L72.0001 127.548L90.3334 127.529V72.4707Z" fill="url(#bibata-bee)" stroke="#000000"/>
   </g>
   <defs>
-    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+    <pattern id="bibata-bee" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
       <g>
         <g transform="rotate(20 50 50) scale(2.4)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>

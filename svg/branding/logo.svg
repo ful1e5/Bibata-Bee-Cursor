@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
   <defs>
-    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="900" height="900">
+    <pattern id="bibata-bee" patternUnits="userSpaceOnUse" x="0" y="0" width="900" height="900">
       <g>
         <g transform="rotate(20 50 50) scale(10.8)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>
@@ -42,6 +42,6 @@
     <path d="M373.127 98.2524C379.801 96.2491 387.005 97.0542 393.151 100.48C393.305 100.568 393.456 100.652 393.609 100.741C467.556 143.895 644.729 298.513 690.541 452.841C709.527 516.796 712.97 549.039 716.988 606.842C743.434 626.475 759.473 627.893 775.383 667.77C795.391 717.914 807.39 757.18 807.39 757.18L693.695 748.523L681.757 812.401L480.403 873.948L426.948 828.811L346.191 895.985C346.191 895.985 335.318 856.39 324.15 812.252C311.963 764.089 326.979 752.701 341.26 716.595C314.119 667.762 299.667 638.883 281.024 576.096C235.129 421.494 319.04 188.482 357.36 111.641C360.591 105.15 373.119 98.2567 373.119 98.2567L373.127 98.2524Z" fill="white"/>
   </mask>
   <g mask="url(#mask0)">
-    <rect rx="0" ry="0" x="0" y="0" stroke="#000000" stroke-width="0" width="900" height="900" fill="url(#bibata-zebra)"/>
+    <rect rx="0" ry="0" x="0" y="0" stroke="#000000" stroke-width="0" width="900" height="900" fill="url(#bibata-bee)"/>
   </g>
 </svg>

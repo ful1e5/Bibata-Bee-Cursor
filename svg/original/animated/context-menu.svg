@@ -4,7 +4,7 @@
     <g filter="url(#filter0_d)">
       <path fill-rule="evenodd" clip-rule="evenodd" d="M44 0C44 0 97.5 47.5 128 83.5C135.249 92.0558 143.076 102.226 144.5 107C150.268 126.332 107.307 90.1269 85.3664 98.1216C64.929 105.569 57.2002 157.078 47 138.5C44.2878 133.56 44 123 44 123V0Z" fill="#000000"/>
     </g>
-    <path d="M52 19V119L86 103L123 89.0961L52 19Z" fill="url(#bibata-zebra)" stroke="#000000"/>
+    <path d="M52 19V119L86 103L123 89.0961L52 19Z" fill="url(#bibata-bee)" stroke="#000000"/>
     <g filter="url(#filter1_d)">
       <path d="M150 130C150 158.719 126.719 182 98 182C69.2812 182 46 158.719 46 130C46 101.281 69.2812 78 98 78C126.719 78 150 101.281 150 130Z" fill="#000000"/>
       <path d="M142 130C142 154.301 122.301 174 98 174C73.6995 174 54 154.301 54 130C54 105.699 73.6995 86 98 86C122.301 86 142 105.699 142 130Z" fill="#000000"/>
@@ -12,7 +12,7 @@
     </g>
   </g>
   <defs>
-    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+    <pattern id="bibata-bee" patternUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
       <g>
         <g transform="rotate(20 50 50) scale(2.4)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>
