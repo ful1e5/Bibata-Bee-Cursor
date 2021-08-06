@@ -8,7 +8,7 @@ AUTHOR = "Kaiz Khatri"
 URL = "https://github.com/ful1e5/Bibata-Bee-Cursor"
 
 # XCursor
-X_DELAY: int = 12
+X_DELAY: int = 50
 
 
 # Windows Cursor
