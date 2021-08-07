@@ -37,17 +37,17 @@
       <g>
         <g transform="rotate(20 50 50) scale(2.4)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>
-          <rect x="-10" y="-10" width="10" height="120" fill="#ffffff"/>
+          <rect x="-10" y="-10" width="10" height="120" fill="#f6e000"/>
           <rect x="0" y="-10" width="10" height="120" fill="#000000"/>
-          <rect x="10" y="-10" width="10" height="120" fill="#ffffff"/>
+          <rect x="10" y="-10" width="10" height="120" fill="#f6e000"/>
           <rect x="20" y="-10" width="10" height="120" fill="#000000"/>
-          <rect x="30" y="-10" width="10" height="120" fill="#ffffff"/>
+          <rect x="30" y="-10" width="10" height="120" fill="#f6e000"/>
           <rect x="40" y="-10" width="10" height="120" fill="#000000"/>
-          <rect x="50" y="-10" width="10" height="120" fill="#ffffff"/>
+          <rect x="50" y="-10" width="10" height="120" fill="#f6e000"/>
           <rect x="60" y="-10" width="10" height="120" fill="#000000"/>
-          <rect x="70" y="-10" width="10" height="120" fill="#ffffff"/>
+          <rect x="70" y="-10" width="10" height="120" fill="#f6e000"/>
           <rect x="80" y="-10" width="10" height="120" fill="#000000"/>
-          <rect x="90" y="-10" width="10" height="120" fill="#ffffff"/>
+          <rect x="90" y="-10" width="10" height="120" fill="#f6e000"/>
           <rect x="100" y="-10" width="10" height="120" fill="#000000"/>
           <rect x="110" y="-10" width="10" height="120" fill="#000000"/>
         </g>
