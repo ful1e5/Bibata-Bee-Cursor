@@ -1,0 +1,16 @@
+{
+  "name": "bibata-bee-cursor",
+  "version": "1.0.0",
+  "description": "'Semi-Animated' Bibata cursors with bee colors",
+  "main": "index.js",
+  "author": "Kaiz Khatri",
+  "license": "GPL-3.0",
+  "private": true,
+  "scripts": {
+    "render:bibata-bee-modern": "yarn workspace bibata-bee-modern render",
+    "render:bibata-bee-original": "yarn workspace bibata-bee-original render"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
