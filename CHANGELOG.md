@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- support creator with liberapay
 ### Changed
 
 - Github Action renamed to `build`
