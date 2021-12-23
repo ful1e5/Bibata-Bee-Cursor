@@ -1,4 +1,4 @@
-### Bibata Bee Cursor
+# Bibata Bee Cursor
 
 'Semi-Animated' Bibata cursors with bee stripes.
 
@@ -170,7 +170,7 @@ make windows WIN_SIZE=96            # Supports only one pixel-size
 
 > Windows installations steps are same as [these](#windows).
 
-# You may also like...
+## You may also like...
 
 - [**Bibata**](https://github.com/ful1e5/Bibata_Cursor) - Material based cursors
 - [**Bibata Extra**](https://github.com/ful1e5/Bibata_Extra_Cursor) - More Bibata!
@@ -178,19 +178,19 @@ make windows WIN_SIZE=96            # Supports only one pixel-size
 - [**Bibata Adapta**](https://gitlab.com/cscs/Bibata_AdaptaBreath_Cursors) - Bibata Based Cursor Made for AdaptaBreath and Manjaro.
 - [**Bibata Translucent**](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent) - Bibata translucent is a translucent flavor of the Bibata.
 
-# Bugs
+## Bugs
 
 Bugs should be reported [here](https://github.com/ful1e5/Bibata-Bee-Cursor/issues) on the Github issues page.
 
-# Getting Help
+## Getting Help
 
 You can create a **issue**, I will help you. 🙂
 
-# Contributing
+## Contributing
 
 Check [CONTRIBUTING.md](CONTRIBUTING.md), any suggestions for features and contributions to the continuing code masterelopment can be made via the issue tracker or code contributions via a `Fork` & `Pull requests`.
 
-# Credit
+## Credit
 
 - [Bibata](https://github.com/ful1e5/Bibata_Cursor)
 - [Bibata Rainbow](https://github.com/ful1e5/Bibata_Cursor_Rainbow)
