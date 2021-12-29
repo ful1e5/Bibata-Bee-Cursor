@@ -2,12 +2,18 @@ name: build
 
 on:
   push:
+    paths:
+      - ".github/**"
+      - "!.github/workflows/**"
     paths-ignore:
       - "**.md"
       - "**.bbcode"
       - LICENSE
     branches: [main, dev]
   pull_request:
+    paths:
+      - ".github/**"
+      - "!.github/workflows/**"
     paths-ignore:
       - "**.md"
       - "**.bbcode"
