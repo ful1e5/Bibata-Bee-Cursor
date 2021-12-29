@@ -2,22 +2,18 @@ name: build
 
 on:
   push:
-    paths:
-      - ".github/**"
-      - "!.github/workflows/**"
     paths-ignore:
       - "**.md"
       - "**.bbcode"
       - LICENSE
+      - ".github/FUNDING.yml"
     branches: [main, dev]
   pull_request:
-    paths:
-      - ".github/**"
-      - "!.github/workflows/**"
     paths-ignore:
       - "**.md"
       - "**.bbcode"
       - LICENSE
+      - ".github/FUNDING.yml"
     branches: [main]
 
 jobs:
